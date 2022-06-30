@@ -2,8 +2,8 @@
 This repository contains solutions for the assignments of the course EE2703 - Applied Programming Lab (Jan-May 2022) at IIT Madras
 
 ### List of assignments
-1) Implementing SPICE in Python - Part 1
-2) Implementing SPICE in Python - Part 2
+1) Circuit Solver - Part 1
+2) Circuit Solver - Part 2
 3) Linear Least Square Fitting
 4) Fourier Approximations
 5) The Resistor Problem
